@@ -18,7 +18,6 @@ jobs:
           github_user_name: huzaifa9559
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
