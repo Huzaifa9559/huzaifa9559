@@ -39,7 +39,7 @@
 
 ---
 
-## 📌 Profile Overview (clean + useful)
+## 📌 Profile Overview
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifa9559&theme=github_dark" />
 </p>
@@ -57,9 +57,8 @@
 ---
 
 ## 🔥 Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=huzaifa9559&hide_border=true&cache_seconds=86400&v=3" />
-</p> 
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=huzaifa9559&theme=github-dark&hide_border=true)
 
 ---
 
