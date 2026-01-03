@@ -33,51 +33,34 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-
       <h3>Languages</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark" />
-      </p>
+      <p><img src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark" /></p>
       <p>TypeScript · JavaScript · Python · C++</p>
 
       <h3>Backend</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,graphql&theme=dark" />
-      </p>
+      <p><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,graphql&theme=dark" /></p>
       <p>Node.js · NestJS · Express · Laravel · GraphQL</p>
 
       <h3>Databases</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
-      </p>
+      <p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" /></p>
       <p>PostgreSQL · MySQL · MongoDB · Redis</p>
-
     </td>
 
     <td width="50%" valign="top">
-
       <h3>Frontend</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" />
-      </p>
+      <p><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" /></p>
       <p>React · Next.js · Redux · Tailwind · Vite</p>
 
       <h3>DevOps / Cloud</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,githubactions,git&theme=dark" />
-      </p>
+      <p><img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,githubactions,git&theme=dark" /></p>
       <p>Docker · AWS · Nginx · Linux · GitHub Actions · Git</p>
 
       <h3>Tools</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=postman,figma,vercel,prisma&theme=dark" />
-      </p>
+      <p><img src="https://skillicons.dev/icons?i=postman,figma,vercel,prisma&theme=dark" /></p>
       <p>Postman · Figma · Vercel · Prisma</p>
-
     </td>
   </tr>
 </table>
-
 
 
 ---
