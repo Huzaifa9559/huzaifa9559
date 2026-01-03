@@ -89,8 +89,8 @@ Postman · Figma · Vercel · Prisma
 
 ## 🔥 Streak
 <p align="center">
-  <img src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/main/metrics.svg?v=1" />
-</p>
+  <img src="https://streak-stats.demolab.com?user=huzaifa9559&hide_border=true&cache_seconds=86400&v=3" />
+</p> 
 
 ---
 
