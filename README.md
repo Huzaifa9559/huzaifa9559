@@ -57,8 +57,8 @@
 ---
 
 ## 🔥 Streak
-## 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=huzaifa9559&theme=github-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huzaifa9559&theme=dark&hide_border=true)
+
 
 ---
 
