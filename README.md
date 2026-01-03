@@ -29,13 +29,37 @@
 ---
 
 ## 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,react,nextjs,nodejs,nestjs,laravel,graphql,express,postgres,mysql,mongodb,redis,docker,aws,nginx,git,githubactions,linux&perline=10" />
-</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,postman,figma,vercel,vite,prisma,opencv,pytorch&perline=10" />
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark" />
 </p>
+**TypeScript • JavaScript • Python • C++**
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" />
+</p>
+**React • Next.js • Redux/TanStack • Tailwind • Vite**
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,graphql&theme=dark" />
+</p>
+**Node.js • NestJS • Express • Laravel • GraphQL**
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
+</p>
+**PostgreSQL • MySQL • MongoDB • Redis**
+
+### DevOps / Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,githubactions,git&theme=dark" />
+</p>
+**Docker • AWS • Nginx • Linux • GitHub Actions • Git**
+
 
 ---
 
