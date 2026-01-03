@@ -18,12 +18,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huzaifa9559&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/huzaifa9559?style=flat-square&label=Followers" />
-  <img src="https://img.shields.io/github/stars/huzaifa9559?style=flat-square&label=Stars" />
-</p>
-
 ---
 
 ## 🧠 About
@@ -66,6 +60,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=huzaifa9559&hide_border=true&cache_seconds=86400&v=3" />
 </p>
+
 ---
 
 ## 🐍 Contribution Snake
