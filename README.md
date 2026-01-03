@@ -47,7 +47,7 @@
 
 ## 🚀 Featured Projects (replace repo names)
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa9559&repo=REPO_1&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa9559&repo=HRMS-Management-System&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa9559&repo=REPO_2&hide_border=true" />
 </p>
 <p align="center">
