@@ -76,9 +76,8 @@
 
 ## 🔥 Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=huzaifa9559&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=huzaifa9559&hide_border=true&cache_seconds=86400&v=3" />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
