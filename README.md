@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Huzaifa Naseer</h1>
 <p align="center">
-  Full-Stack Engineer • Final-Year CS @ FAST NUCES • SaaS + DevOps + Applied AI
+  Builder • Researcher • Programmer
 </p>
 
 <p align="center">
