@@ -30,7 +30,7 @@
 
 ## 💻 Tech Stack
 
-
+| | |
 |---|---|
 | **Languages**<br><img src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark" /><br>TypeScript · JavaScript · Python · C++ | **Frontend**<br><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" /><br>React · Next.js · Redux · Tailwind · Vite |
 | **Backend**<br><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,graphql&theme=dark" /><br>Node.js · NestJS · Express · Laravel · GraphQL | **DevOps / Cloud**<br><img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,githubactions,git&theme=dark" /><br>Docker · AWS · Nginx · Linux · GitHub Actions · Git |
