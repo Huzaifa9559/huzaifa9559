@@ -34,31 +34,38 @@
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark" />
 </p>
-**TypeScript • JavaScript • Python • C++**
+TypeScript · JavaScript · Python · C++
 
 ### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" />
 </p>
-**React • Next.js • Redux/TanStack • Tailwind • Vite**
+React · Next.js · Redux · Tailwind · Vite
 
 ### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,graphql&theme=dark" />
 </p>
-**Node.js • NestJS • Express • Laravel • GraphQL**
+Node.js · NestJS · Express · Laravel · GraphQL
 
 ### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
 </p>
-**PostgreSQL • MySQL • MongoDB • Redis**
+PostgreSQL · MySQL · MongoDB · Redis
 
 ### DevOps / Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,githubactions,git&theme=dark" />
 </p>
-**Docker • AWS • Nginx • Linux • GitHub Actions • Git**
+Docker · AWS · Nginx · Linux · GitHub Actions · Git
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,figma,vercel,prisma&theme=dark" />
+</p>
+Postman · Figma · Vercel · Prisma
+
 
 
 ---
@@ -82,7 +89,7 @@
 
 ## 🔥 Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=huzaifa9559&hide_border=true&cache_seconds=86400&v=3" />
+  <img src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/main/metrics.svg?v=1" />
 </p>
 
 ---
