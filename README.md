@@ -1,20 +1,23 @@
-<!-- Profile README for: huzaifa9559 -->
+<!-- Fancy Profile README — huzaifa9559 -->
 
-<h1 align="center">Hi, I'm Huzaifa Naseer 👋</h1>
-<h3 align="center">Full-Stack Engineer • Final-Year CS @ FAST NUCES • SaaS + DevOps + Applied AI</h3>
+<h1 align="center">👋 Hi, I'm Huzaifa Naseer</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+NestJS+%2B+React+%7C+SaaS+Builder;DevOps+%28Docker%2C+CI%2FCD%29+%7C+AWS%2FDigitalOcean;Applied+AI+Research+%28LoRA%2FPEFT%2C+Vision+Models%29;Final-Year+CS+Student+%40+FAST+NUCES" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO_LINK/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel" />
+  <a href="https://YOUR_PORTFOLIO_LINK/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/~YOUR_UPWORK_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-Hire-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+  <a href="https://www.upwork.com/freelancers/~YOUR_UPWORK_ID">
+    <img src="https://img.shields.io/badge/Upwork-Hire-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
 
@@ -26,69 +29,54 @@
 
 ---
 
-## About me
-- I build **production SaaS** (backend + frontend + database + deployment).
-- I like **clean architecture**, performance, and maintainable UI systems.
-- I also do **applied AI research experiments** (PEFT/LoRA + vision models).
-- I keep important repos public so people can **learn & contribute**.
+## 🧠 About me
+- 🚀 I build **production SaaS** end-to-end (backend + frontend + database + deployment)
+- 🧩 Strong on **clean architecture**, reusable components, and API design
+- 🐳 Comfortable shipping with **Docker**, CI/CD, and cloud deployments
+- 🔬 I also run **applied AI research experiments** (LoRA/PEFT on vision models)
 
 ---
 
-## Tech Stack (Tools I ship with)
-
-### Languages
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-2F74C0?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-### Backend
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-
-### Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111" />
-<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-
-### Databases & Infra
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
-
-### AI / ML (projects + research)
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer_Vision-111111?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-222222?style=for-the-badge" />
+## 🌐 Socials
+- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
+- Portfolio: https://YOUR_PORTFOLIO_LINK/
+- Email: YOUR_EMAIL@gmail.com
 
 ---
 
-## Featured Projects
-- **SaaS / Product:** [REPO_NAME_1](https://github.com/huzaifa9559/REPO_NAME_1) — one-liner (what it does + who it helps)
-- **Backend / API:** [REPO_NAME_2](https://github.com/huzaifa9559/REPO_NAME_2) — one-liner
-- **AI / Research:** [REPO_NAME_3](https://github.com/huzaifa9559/REPO_NAME_3) — LoRA/PEFT experiments + results
-- **DevOps / Deploy:** [REPO_NAME_4](https://github.com/huzaifa9559/REPO_NAME_4) — Docker + CI/CD notes
+## 💻 Tech Stack
+
+### Core skills (icons)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,react,nextjs,nodejs,nestjs,laravel,graphql,express,postgres,mysql,mongodb,redis,docker,aws,nginx,git,githubactions,linux&perline=11" />
+</p>
+
+### Tools I use
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,figma,tailwind,vite,vercel,prisma,sequelize,opencv,pytorch&perline=11" />
+</p>
 
 ---
 
-## GitHub Analytics (Graphs & Contributions)
+## 📌 Featured Projects
+> Replace these with your best repos (keep 4–6 max)
+
+- 🚀 **SaaS / Product:** [REPO_1](https://github.com/huzaifa9559/REPO_1) — one line: what it does + impact
+- 🧠 **Backend / API:** [REPO_2](https://github.com/huzaifa9559/REPO_2) — one line
+- 🔬 **AI / Research:** [REPO_3](https://github.com/huzaifa9559/REPO_3) — LoRA/PEFT experiments + results
+- 🐳 **DevOps / Deploy:** [REPO_4](https://github.com/huzaifa9559/REPO_4) — Docker/CI/CD deployment setup
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=huzaifa9559&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=huzaifa9559&show_icons=true&rank_icon=github&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa9559&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=huzaifa9559&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=huzaifa9559&hide_border=true" />
 </p>
 
 <p align="center">
@@ -101,15 +89,23 @@
 
 ---
 
-## Contribution Snake (auto-generated)
+## 🔝 Top Contributed Repo
+> Replace `REPO_NAME` with your strongest repo
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa9559&repo=REPO_NAME&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (auto-generated)
 <p align="center">
   <img src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-## Open to
-- Freelance / contract (SaaS, dashboards, APIs, integrations)
+## 🤝 Open to
+- Freelance / contract work (SaaS, dashboards, APIs, integrations)
 - Internship / entry roles (Backend / Full-Stack)
-- Collaboration on practical open-source
-
+- Collaboration on practical open-source projects
