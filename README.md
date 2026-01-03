@@ -45,18 +45,6 @@
 
 ---
 
-## 🚀 Featured Projects (replace repo names)
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa9559&repo=HRMS-Management-System&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa9559&repo=REPO_2&hide_border=true" />
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa9559&repo=REPO_3&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa9559&repo=REPO_4&hide_border=true" />
-</p>
-
----
-
 ## 📌 Profile Overview (clean + useful)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifa9559&theme=github_dark" />
