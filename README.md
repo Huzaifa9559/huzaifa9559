@@ -1,9 +1,3 @@
-<!-- =========================
-  GitHub Profile README
-  Username: huzaifa9559
-  Repo: huzaifa9559/huzaifa9559
-========================= -->
-
 <h1 align="center">👋 Hi, I'm Huzaifa Naseer</h1>
 <p align="center">
   Full-Stack Engineer • Final-Year CS @ FAST NUCES • SaaS + DevOps + Applied AI
@@ -33,10 +27,10 @@
 ---
 
 ## 🧠 About
-- 🚀 I build **production SaaS** end-to-end (backend + frontend + database + deployment)
-- 🧩 Focused on **clean architecture**, reusable UI components, and API design
-- 🐳 Ship with **Docker + CI/CD** and deploy to cloud (AWS/DigitalOcean)
-- 🔬 Also run **applied AI research** (LoRA/PEFT on vision models)
+- I build **production SaaS** end-to-end (backend + frontend + database + deployment)
+- I care about **clean architecture**, reusable UI components, and solid API design
+- I ship using **Docker + CI/CD**, and deploy on cloud (AWS/DigitalOcean)
+- I also explore **applied AI research** (LoRA/PEFT on vision models)
 
 ---
 
@@ -51,12 +45,11 @@
 
 ---
 
-## 🚀 Featured Projects (Replace repo names)
+## 🚀 Featured Projects (replace repo names)
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa9559&repo=REPO_1&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa9559&repo=REPO_2&hide_border=true" />
 </p>
-
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa9559&repo=REPO_3&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa9559&repo=REPO_4&hide_border=true" />
@@ -64,29 +57,24 @@
 
 ---
 
-## 📌 Profile Overview (Auto-generated cards)
+## 📌 Profile Overview (clean + useful)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifa9559&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifa9559&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huzaifa9559&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/main/profile-summary-card-output/github_dark/3-stats.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huzaifa9559&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huzaifa9559&theme=github_dark&utcOffset=5" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=huzaifa9559&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa9559&layout=compact&hide_border=true" />
-</p>
-
+## 🔥 Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=huzaifa9559&hide_border=true" />
 </p>
@@ -95,7 +83,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/output/github-contribution-grid-snake.svg?v=1" />
 </p>
 
 ---
