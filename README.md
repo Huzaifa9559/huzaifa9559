@@ -56,8 +56,8 @@
 
 ---
 
-## 🔥 Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huzaifa9559&theme=dark&hide_border=true)
+## 📈 Contribution Insights
+<img src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/main/metrics.svg?v=1" />
 
 
 ---
