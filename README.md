@@ -1,92 +1,75 @@
-<!-- =========================
-  GitHub Profile README
-  Username: huzaifa9559
-========================= -->
-
-<h1 align="center">👋 Hi, I'm Huzaifa Naseer</h1>
+<h1 align="center">Hi, I'm Huzaifa Naseer 👋</h1>
 <p align="center">
-  Builder • Researcher • Programmer
+  Full-Stack Engineer • Final-Year CS Student • Building SaaS, DevOps & AI experiments
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  <a href="https://github.com/huzaifa9559">
+    <img src="https://komarev.com/ghpvc/?username=huzaifa9559&label=Profile%20views&style=flat" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/huzaifa9559?tab=followers">
+    <img src="https://img.shields.io/github/followers/huzaifa9559?label=Followers&style=flat" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_LINK/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~YOUR_UPWORK_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-Hire-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+  <a href="https://github.com/huzaifa9559?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-Open%20Source-blue?style=flat" />
   </a>
 </p>
 
+---
+
+## About me
+- ⚙️ I build backend systems (NestJS/Node, Laravel), dashboards (React), and deploy with Docker + CI/CD  
+- 🧠 I like working on practical AI experiments (research + prototyping)
+- 🤝 Open to collaboration on SaaS MVPs, automations, and developer tooling
+
+---
+
+## Tech Stack
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huzaifa9559&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/huzaifa9559?style=flat-square&label=Followers" />
-  <img src="https://img.shields.io/github/stars/huzaifa9559?style=flat-square&label=Stars" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,nextjs,redux,tailwind,php,laravel,mysql,postgres,mongodb,python,docker,aws,linux,git,githubactions&perline=10" />
+  </a>
 </p>
 
 ---
 
-## 🧠 About
-- 🚀 I build **production SaaS** end-to-end (backend + frontend + database + deployment)
-- 🧩 Focused on **clean architecture**, reusable UI components, and API design
-- 🐳 Ship with **Docker + CI/CD** and deploy to cloud (AWS/DigitalOcean)
-- 🔬 Also run **applied AI research** (LoRA/PEFT on vision models)
+## GitHub Stats
 
----
-
-## 💻 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,react,nextjs,nodejs,nestjs,laravel,graphql,express,postgres,mysql,mongodb,redis,docker,aws,nginx,git,githubactions,linux&perline=11" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,postman,figma,vercel,vite,prisma,opencv,pytorch&perline=11" />
-</p>
-
----
-
-## 📌 Featured Projects
-- 🚀 **SaaS / Product:** [REPO_1](https://github.com/huzaifa9559/REPO_1) — one line: what it does + impact
-- 🧩 **Backend / API:** [REPO_2](https://github.com/huzaifa9559/REPO_2) — one line
-- 🔬 **AI / Research:** [REPO_3](https://github.com/huzaifa9559/REPO_3) — LoRA/PEFT experiments + results
-- 🐳 **DevOps / Deploy:** [REPO_4](https://github.com/huzaifa9559/REPO_4) — Docker/CI/CD deployment setup
-
----
-
-## 📊 GitHub Stats (Reliable)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/main/github-metrics.svg" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=huzaifa9559&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa9559&layout=compact&hide_border=true" />
 </p>
 
----
-
-## 📈 Activity Overview (Green line graph with X/Y axis)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa9559&theme=github-compact&hide_border=true&area=true" />
+  <img src="https://streak-stats.demolab.com?user=huzaifa9559&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Trophies
+## Activity Graph (the green line graph)
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=huzaifa9559&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa9559&theme=github&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## Trophies
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=huzaifa9559&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🤝 Open to
-- Freelance / contract work (SaaS, dashboards, APIs, integrations)
-- Internship / entry roles (Backend / Full-Stack)
-- Collaboration on practical open-source
+## Featured Work (replace repo names)
+- 🚀 SaaS / Product: **REPO_NAME** — one line on what it does + impact
+- 🧩 Backend / API: **REPO_NAME** — auth, DB, integrations
+- 🧠 AI / Research: **REPO_NAME** — experiments + results
+- 🐳 DevOps / Deploy: **REPO_NAME** — Docker, CI/CD, infra
+
+---
+
+### Notes
+- Some cards don’t include private contributions (GitHub limitation).
