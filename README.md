@@ -1,12 +1,11 @@
 <!-- =========================
   GitHub Profile README
   Username: huzaifa9559
-  Paste into: https://github.com/huzaifa9559/huzaifa9559 (README.md)
 ========================= -->
 
-<h1 align="center">👋 Hi, Huzaifa here</h1>
+<h1 align="center">👋 Hi, I'm Huzaifa Naseer</h1>
 <p align="center">
-  Full-Stack Engineer • Final-Year CS @ FAST NUCES • SaaS + DevOps + Applied AI
+  Builder • Researcher • Programmer
 </p>
 
 <p align="center">
@@ -33,28 +32,18 @@
 ---
 
 ## 🧠 About
-- I build **production SaaS** end-to-end (backend + frontend + database + deployment)
-- I focus on **clean architecture**, reusable UI components, and API design
-- I ship with **Docker + CI/CD** and deploy to cloud (AWS/DigitalOcean)
-- I also do **applied AI research** (LoRA/PEFT on vision models)
-
----
-
-## 🌐 Socials
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
-- Portfolio: https://YOUR_PORTFOLIO_LINK/
-- Email: YOUR_EMAIL@gmail.com
+- 🚀 I build **production SaaS** end-to-end (backend + frontend + database + deployment)
+- 🧩 Focused on **clean architecture**, reusable UI components, and API design
+- 🐳 Ship with **Docker + CI/CD** and deploy to cloud (AWS/DigitalOcean)
+- 🔬 Also run **applied AI research** (LoRA/PEFT on vision models)
 
 ---
 
 ## 💻 Tech Stack
-
-### Core (icons)
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,react,nextjs,nodejs,nestjs,laravel,graphql,express,postgres,mysql,mongodb,redis,docker,aws,nginx,git,githubactions,linux&perline=11" />
 </p>
 
-### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=tailwind,postman,figma,vercel,vite,prisma,opencv,pytorch&perline=11" />
 </p>
@@ -62,8 +51,6 @@
 ---
 
 ## 📌 Featured Projects
-> Replace these with your best repos (keep 4–6 max)
-
 - 🚀 **SaaS / Product:** [REPO_1](https://github.com/huzaifa9559/REPO_1) — one line: what it does + impact
 - 🧩 **Backend / API:** [REPO_2](https://github.com/huzaifa9559/REPO_2) — one line
 - 🔬 **AI / Research:** [REPO_3](https://github.com/huzaifa9559/REPO_3) — LoRA/PEFT experiments + results
@@ -71,21 +58,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Reliable)
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=huzaifa9559&show_icons=true&rank_icon=github&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa9559&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=huzaifa9559&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/main/github-metrics.svg" />
 </p>
 
 ---
 
-## 📈 Activity Overview
+## 📈 Activity Overview (Green line graph with X/Y axis)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa9559&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa9559&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ---
@@ -93,15 +75,6 @@
 ## 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=huzaifa9559&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🔝 Top Contributed Repo
-> Replace `REPO_NAME` with your strongest repo name
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa9559&repo=REPO_NAME&hide_border=true" />
 </p>
 
 ---
