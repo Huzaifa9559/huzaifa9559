@@ -30,17 +30,15 @@
 
 ## 💻 Tech Stack
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
 ### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark" />
 </p>
 TypeScript · JavaScript · Python · C++
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" />
-</p>
-React · Next.js · Redux · Tailwind · Vite
 
 ### Backend
 <p>
@@ -54,6 +52,15 @@ Node.js · NestJS · Express · Laravel · GraphQL
 </p>
 PostgreSQL · MySQL · MongoDB · Redis
 
+    </td>
+    <td width="50%" valign="top">
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" />
+</p>
+React · Next.js · Redux · Tailwind · Vite
+
 ### DevOps / Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,githubactions,git&theme=dark" />
@@ -65,6 +72,10 @@ Docker · AWS · Nginx · Linux · GitHub Actions · Git
   <img src="https://skillicons.dev/icons?i=postman,figma,vercel,prisma&theme=dark" />
 </p>
 Postman · Figma · Vercel · Prisma
+
+    </td>
+  </tr>
+</table>
 
 
 
