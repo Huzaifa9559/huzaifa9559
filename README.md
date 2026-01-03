@@ -71,6 +71,7 @@
 ---
 
 ## 🤝 Open to
-- Freelance / contract work (SaaS, dashboards, APIs, integrations)
-- Internship / entry roles (Backend / Full-Stack)
+- Freelance or contract work related full stack apps
+- Consult early stage founders on building a product
 - Collaboration on practical open-source
+- Peer research on vision models
