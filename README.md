@@ -39,19 +39,21 @@
 ---
 
 ## 📌 Profile Overview
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifa9559&theme=github_dark" />
+  <img src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifa9559&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huzaifa9559&theme=github_dark" />
+  <img width="49%" src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huzaifa9559&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huzaifa9559&theme=github_dark&utcOffset=5" />
+  <img width="49%" src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/huzaifa9559/huzaifa9559/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
 </p>
+
 
 ---
 
