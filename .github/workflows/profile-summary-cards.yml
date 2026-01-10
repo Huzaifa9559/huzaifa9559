@@ -3,7 +3,7 @@ name: GitHub Profile Summary Cards
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # daily
 
 jobs:
   build:
@@ -14,17 +14,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Ensure token secret exists
-        run: |
-          if [ -z "${{ secrets.SUMMARY_GITHUB_TOKEN }}" ]; then
-            echo "SUMMARY_GITHUB_TOKEN is missing/empty. Add it in repo Settings > Secrets."
-            exit 1
-          fi
-          echo "Token secret is present."
-
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 5
+          AUTO_PUSH: true
